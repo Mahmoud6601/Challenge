@@ -9,3 +9,10 @@
 /.github export-ignore
 CHANGELOG.md export-ignore
 .styleci.yml export-ignore
+# Force LF for text files
+*.sh      text eol=lf
+*.yml     text eol=lf
+*.conf    text eol=lf
+*.crt     text eol=lf
+*.key     text eol=lf
+*.pem     text eol=lf

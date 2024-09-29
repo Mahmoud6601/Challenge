@@ -1,3 +1,7 @@
+# Ignore MySQL runtime files
+mysql-data/
+*.sock
+
 # /.phpunit.cache
 # /node_modules
 # /public/build
