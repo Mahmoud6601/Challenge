@@ -137,6 +137,6 @@ docker-compose up --build
 
 ## Screenshots
 
-![app](./screenshot/screenshot.png)
+![app](screenshot.png)
 
 
