@@ -16,3 +16,4 @@ CHANGELOG.md export-ignore
 *.crt     text eol=lf
 *.key     text eol=lf
 *.pem     text eol=lf
+*.yml text eol=lf
