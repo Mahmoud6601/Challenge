@@ -1,7 +1,3 @@
-Here’s the revised `README.md` file, focusing on step-by-step instructions without providing the full code for each file. It also includes instructions on adding Docker Hub credentials in GitHub and an explanation of the CI/CD pipeline.
-
----
-
 # BookAPI
 
 ## Overview
